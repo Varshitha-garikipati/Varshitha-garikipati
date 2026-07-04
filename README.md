@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Varshitha%20Garikipati&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Generative%20AI%20Enthusiast%20|%20AI%20Agent%20Builder&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:38BDF8&text=Varshitha%20Garikipati&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Generative%20AI%20Enthusiast%20•%20AI%20Agent%20Builder&descAlignY=60"/>
 
 # 👋 Hi, I'm Varshitha Garikipati
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Generative+AI+Enthusiast;AI+Agent+Builder;MERN+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Generative+AI+Enthusiast;AI+Agent+Builder;MERN+Stack+Developer;Always+Learning+New+Things"/>
 
 ### 💻 Full Stack (MERN) Developer | 🤖 Generative AI Enthusiast | 🚀 AI Agent Builder
 
-<img src="https://komarev.com/ghpvc/?username=Varshitha-garikipati&label=Profile+Views&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Varshitha-garikipati&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -18,54 +18,60 @@
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 💻 Passionate Full Stack (MERN) Developer
-- 🤖 Exploring Generative AI & AI Agents
-- 🧠 Building AI-powered applications using LangChain & LangGraph
-- 📦 Working with Pinecone Vector Database
+- 🤖 Building AI-powered applications using Generative AI & AI Agents
+- 🧠 Working with LangChain, LangGraph & Pinecone
+- 📦 Integrating Vector Search using Pinecone
 - 🏆 Active Hackathon Participant
 - 📚 Practicing Data Structures & Algorithms
-- 💡 Passionate about solving real-world problems using AI
+- 💡 Passionate about solving real-world problems with AI
 - 🌱 Currently learning Machine Learning & Agentic AI
-- 🎯 Goal: Become an AI Engineer & Full Stack Developer
+- 🎯 Aspiring AI Engineer & Full Stack Developer
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 AI Agent Development
-- 🧠 LLM Applications
-- 🚀 MERN Stack Projects
-- 💻 DSA & Problem Solving
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Applications-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN_Projects-3FA037?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge"/>
+
+</div>
 
 ---
+
 # ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&ensp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&ensp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/>&ensp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>&ensp;
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>&ensp;
-<img src="https://img.shields.io/badge/Pinecone-00C896?style=for-the-badge"/>&ensp;
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>&ensp;
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&ensp;
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&ensp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Pinecone-00C896?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>&nbsp;
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
+
 ---
 
 ---
