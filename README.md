@@ -73,56 +73,124 @@
 </div>
 
 ---
-
----
-
 # 📚 Currently Learning
 
-- ☕ Java
-- 🤖 Machine Learning
-- 🌐 LangGraph
-- 🚀 Agentic AI
-- 🔄 Multi-Agent AI Systems
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Machine_Learning-Learning-3776AB?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-Learning-FF6B6B?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Agentic_AI-Learning-6C63FF?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Multi--Agent_AI-Learning-00C896?style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 💪 Strengths
 
-- ✅ MERN Stack Development
-- ✅ AI Agent Development
-- ✅ Problem Solving
-- ✅ DSA (Easy Level)
-- ✅ Fast Learner
-- ✅ Team Collaboration
+<div align="center">
+
+<img src="https://img.shields.io/badge/MERN_Stack-Expert-3FA037?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-Builder-6C63FF?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Problem_Solving-DSA-F59E0B?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Fast_Learner-00B8D9?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Team_Player-4CAF50?style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🧠 ZeroLost AI | AI-powered second brain using AI Agents, LangChain, LangGraph & Pinecone |
-| 🤖 Career Navigator AI | AI-powered career guidance platform |
-| 🌾 Crop Recommendation System | Machine Learning-based crop recommendation |
-| 🛒 MERN Canteen Management | Full Stack food ordering platform |
-| 💻 Student Backend | REST APIs using Node.js, Express & MongoDB |
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 ZeroLost AI
+
+AI-powered Second Brain built using
+
+- LangChain
+- LangGraph
+- Pinecone
+- AI Agents
+- MERN Stack
+
+</td>
+
+<td width="50%">
+
+## 🤖 Career Navigator AI
+
+AI-powered Career Guidance Platform
+
+- Generative AI
+- MERN Stack
+- OpenAI API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🌾 Crop Recommendation System
+
+Machine Learning based recommendation system using
+
+- Python
+- Machine Learning
+- Data Analysis
+
+</td>
+
+<td>
+
+## 🛒 MERN Canteen Management
+
+Food Ordering Platform
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🏅 Achievements
 
-- 🏆 Google Build with AI Bootcamp
-- 🌱 Edunet Foundation AI Internship
-- 📜 Infosys Springboard Virtual Internship
-- 🚀 Active Hackathon Participant
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-Build_with_AI_Bootcamp-4285F4?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Edunet-AI_Internship-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Springboard_Internship-007CC3?style=for-the-badge&logo=infosys"/>
+
+<img src="https://img.shields.io/badge/Hackathons-Participant-FF9800?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha-garikipati&theme=github-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshitha-garikipati&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-garikipati&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -135,6 +203,50 @@
 <img src="https://streak-stats.demolab.com?user=Varshitha-garikipati&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha-garikipati&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Varshitha-garikipati&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Varshitha-garikipati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="YOUR_CODECHEF_URL">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="YOUR_HACKERRANK_URL">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</div>
 
 ---
 
@@ -160,7 +272,7 @@
 
 # 💡 Fun Fact
 
-> 🚀 I love building AI-powered applications that solve real-world problems and enjoy exploring the latest innovations in Generative AI.
+> 🚀 I enjoy transforming ideas into intelligent AI-powered applications that solve real-world problems.
 
 ---
 
@@ -168,7 +280,7 @@
 
 ## ⭐ Thanks for visiting my profile!
 
-### *"Building intelligent solutions, one commit at a time."*
+### 🚀 *Keep Learning • Keep Building • Keep Growing*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/>
 
