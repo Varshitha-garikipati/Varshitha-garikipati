@@ -38,29 +38,33 @@
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman"/>
 
-<img src="https://skillicons.dev/icons?i=c,python,java,javascript"/>
+</div>
 
-### 🎨 Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+## 🤖 AI Ecosystem
 
-### ⚙️ Backend
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+![](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge&logo=openai)
 
-### 🗄️ Database
+![](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-### 🛠 Developer Tools
+![](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+![](https://img.shields.io/badge/Pinecone-00D4AA?style=for-the-badge)
+
+![](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai)
+
+![](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
 
 </div>
 
