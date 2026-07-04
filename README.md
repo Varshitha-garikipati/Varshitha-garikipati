@@ -37,6 +37,8 @@
 - 💻 DSA & Problem Solving
 
 ---
+# ⚡ Tech Arsenal
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&ensp;
@@ -64,7 +66,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
-
 ---
 
 ---
